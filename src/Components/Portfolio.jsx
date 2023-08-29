@@ -31,15 +31,15 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Instructor Organization Dashboard",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "A program that will help the School Organization to register their precious member and give them a announcement and keep them to upcoming events. Using Java",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Retail Store",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "C++ program based on Sari-Sari store and make it more convenient and hassle free.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
