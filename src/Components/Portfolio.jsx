@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Instructor Organization Dashboard",
+    title: "E commerce website",
     description:
-      "A program that will help the School Organization to register their precious member and give them a announcement and keep them to upcoming events. Using Java",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A E-commerce website that I made to help my Aunt business and promote her products and sell it online",
+    url: "https://github.com/Ronzxc/web-dev-project.git",
   },
   {
-    title: "Retail Store",
-    description:
-      "C++ program based on Sari-Sari store and make it more convenient and hassle free.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Batch Queue System",
+    description: "Operating System algorithm which is Batch Queue System and coded using Java",
+    url: "https://github.com/Ronzxc/ProjectOS.git",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/Ronnnzxc/first-website.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Hospital Queueing System ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It helps the queueing, conveniently access the information of Patient, and helps to navigate the patient to what services they need",
+    url: "https://github.com/krishadn/dsa-project.git",
   },
 ];
 
